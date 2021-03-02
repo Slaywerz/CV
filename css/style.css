@@ -822,7 +822,7 @@ a.goto-social, a.goto-social:hover {
     color: #777;
       font-size: 14px;
     font-weight: 500;
-    text-transform: capitalize; }
+    text-transform: none; }
 .education-wrap .vertical-align-pad {
   padding-top: 10px;
   display: block; }
@@ -891,7 +891,7 @@ a.goto-social, a.goto-social:hover {
     font-size: 14px;
     color: #303133;
       font-weight: 500;
-    text-transform: capitalize;
+    text-transform: none;
     float: left;
     width: 100%; }
 .achivement-list-wrap .dash-pointer {
